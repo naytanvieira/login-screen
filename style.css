@@ -10,11 +10,13 @@ body,input {
     font-family: Poppins, sans-serif;
 }
 
+
+
 .container{
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background-color: #fff;
+    background-color: #232323;
     overflow: hidden;
 }
 
@@ -76,7 +78,7 @@ form.sign-up-form{
 
 .title {
     font-size: 2.2rem;
-    color: #444;
+    color: #d8d8d8;
     margin-bottom:10px;
 }
 
@@ -84,7 +86,7 @@ form.sign-up-form{
     max-width: 380px;
     width: 100%;
     height: 55px;
-    background-color: #f0f0f0;
+    background-color: #323539;
     margin: 10px 0;
     border-radius: 55px;
     display: grid;
@@ -95,7 +97,7 @@ form.sign-up-form{
 .input-field svg{
     display: block;
     margin: auto;
-    color: #acacac;
+    color: #d8d8d8;
     font-size: 1.1rem;
 }
 
@@ -106,7 +108,7 @@ form.sign-up-form{
     line-height: 1;
     font-weight: 600;
     font-size: 1.1rem;
-    color: #333;
+    color: #d8d8d8;
 
 }
 
@@ -138,6 +140,7 @@ form.sign-up-form{
 .social-text{
     padding: .7rem 0;
     font-size: 1rem;
+    color: #d8d8d8;
 
 }
 
@@ -149,13 +152,13 @@ form.sign-up-form{
 .social-icon{
     height: 46px;
     width: 46px;
-    border: 1px solid #333;
+    border: 1px solid #d8d8d8;
     margin: 0 0.45rem;
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    color: #333;
+    color: #d8d8d8;
     border-radius: 50%;
     transition: 0.3s;
 }
